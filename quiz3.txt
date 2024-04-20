@@ -1,0 +1,19 @@
+Q 3.1.1 の 1.の答:BC
+           2.の答:B 
+
+Q 3.2.1 の答:×〇×△〇〇
+
+Q 3.3.1 の答:*0*1*2*3|4 
+
+Q 3.3.9 の答:ds.length
+
+Q 3.3.10 の答:
+Javaの場合：Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+        at ArrayIndexOutOfBoundsExceptionTest.main(ArrayIndexOutOfBoundsExceptionTest.java:5)
+Cの場合；352200448
+
+Q 3.4.2 の 1.の答:〇
+           2.の答:×
+           3.の答:〇 
+           4.の答:〇
+           5.の答:〇

@@ -1,0 +1,4 @@
+JDK のインストールは完了した。
+Gradle のインストールは完了した。
+Visual Studio Code のインストールは完了した。
+Kotlin のインストールは完了していない。
